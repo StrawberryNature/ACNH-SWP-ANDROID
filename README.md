@@ -1,5 +1,5 @@
 # SKETCHWARE PRO
-Ein Projekt, das mit Sketchware Pro erstellt wird, Sketchware Pro ist eine modifizierte App die schon länger von den Machern stillgelegt wurde.
+Ein Projekt, das mit [Sketchware Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) erstellt wird, Sketchware Pro ist eine modifizierte App die schon länger von den Machern stillgelegt wurde.
 Eine Aktive Gruppe an Entwickler'innen, hat neues Leben in die App einhauchen lassen. Vieles wurde hinzugefügt, entfernt und verbessert, aber das wichtigste ist sie lebt weiter.
 
 #ACNH-SWP-ANDROID
