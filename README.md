@@ -13,5 +13,5 @@ Ein Team das mit einer modifizierten Sketchware App arbeitet, vieles ist schon f
 
 # !!Wichtig zu wissen!!
 
-Mit der Firebase werdet ihr anonym angemeldet und bei jedem schliessen der App, werdet ihr ausgeloggt. Es werden keine persönlichen Daten gespeichert oder an drittbenutzer weitergegeben, es dient lediglich dazu einen persönlichen Token für die Benachrichtigung zu bekommen.
+Mit der Firebase werdet ihr anonym angemeldet und bei jedem schliessen der App, werdet ihr ausgeloggt. Es werden dabei keine persönlichen Daten gespeichert oder an drittbenutzer weitergegeben, es dient lediglich dazu einen persönlichen Token für die Benachrichtigung zu bekommen.
 Auch werden darüber die Updates angekündigt und in der App visuell dargestellt (beim starten der App unten am Bildschirm). 
